@@ -1,0 +1,111 @@
+M http://cache.w3-hidden.cc/
+M http://disobscure.velum-ultra.com/skulls.php
+M http://gwc.gallaxial.com/beacon2/gwc.php
+M http://gwc.mccarragher.org/skulls/skulls.php
+M http://gwctest.zapto.org:1337/
+M http://gweb.4octets.co.uk/skulls.php
+M http://gweb.dwbo.nl/
+M http://gweb2.4octets.co.uk/gwc.php
+M http://tenafly5k.com/gwc/skulls.php
+
+2 http://cache.ce3c.be/
+2 http://cache.ibel.de/
+2 http://cachechu.navhost.com/skulls.php
+2 http://dkac.trillinux.org/dkac/dkac.php
+2 http://ping.pongwar.com/
+2 http://uk.gnutella.dyslexicfish.net:3559/
+2 http://useast.gnutella.dyslexicfish.net:3559/
+2 http://uswest.gnutella.dyslexicfish.net:3559/
+2 http://www.k33bz.com/g2/bazooka.php
+
+1 http://uk.gnutella.dyslexicfish.net:3558/
+1 http://useast.gnutella.dyslexicfish.net:3558/
+1 http://uswest.gnutella.dyslexicfish.net:3558/
+
+D http://peerates.net/servers.php
+D http://upd.emule-security.org/server.met
+D http://www.emule-server.de/server.met/max/server.met
+D http://www.gruk.org/server.met
+
+H http://dchublist.com/hublist.xml.bz2
+H http://dchublist.ru/hublist.xml.bz2
+# http://publichublist.com/?do=hublist.xml.bz2
+H http://www.hublista.hu/hublist.xml.bz2
+
+# Bad / Broken:
+X http://59.175.238.8:9030/beacon2/gwc.php
+X http://cache-doxu.rhcloud.com/
+X http://cache.trillinux.org/g2/bazooka.php
+X http://fascination77.free.fr/cachechu/
+X http://p2p.findclan.org/
+
+# Duplicates:
+X http://gwc.gallaxial.com/beacon2/gwc
+
+# Died / Removed:
+X http://1.gc.1e400.net/
+X http://beacon.numberzero.org/gwc.php
+X http://bootdesu.appspot.com/
+X http://buriti2.serveftp.com:8080/skulls.php
+X http://cache.hxdsecurity.com/gwc/
+X http://cache.leite.us/
+X http://cache.peernix.com/gwc.php
+X http://cache.trillinux.org.nyud.net:8090/g2/bazooka.php
+X http://cache.wru.pl/skulls.php
+X http://cache2.bazookanetworks.com/g2/bazooka.php
+X http://cache2.leite.us/
+X http://cachechu.orgfree.com/
+X http://dogma.cloud.bishopston.net:33559/
+X http://fischaleck.net/cache/mcache.php
+X http://g2cache.zapto.org/skulls.php
+X http://gallaxial.com/cachechu/
+X http://gofoxy.net/gwc/cgi-bin/fc
+X http://gwc.agrocampmt.com.br/skulls.php
+X http://gwc.dyndns.info:28960/gwc.php
+X http://gwc.frodoslair.net/skulls/skulls
+X http://gwc.frodoslair.net/skulls/skulls.php
+X http://gwc.gofoxy.net:2108/gwc/cgi-bin/fc
+X http://gwc.iblinx.com:2108/gwc/cgi-bin/fc
+X http://gwc.marksieklucki.com/skulls.php
+X http://gwc2.wodi.org/skulls.php
+X http://gwebcache.ns1.net/
+X http://gwebcache.spearforensics.com/
+X http://htmlhell.com/
+X http://jayl.de/gweb/g2/bazooka.php
+X http://karma.cloud.bishopston.net:33559/
+X http://mcache.mccarragher.org/cachechu/
+X http://mccarragher.org/cachechu/
+X http://midian.jayl.de/g2/bazooka.php
+X http://news.gallaxial.com/cachechu/
+X http://news.mccarragher.org/cachechu/
+X http://news.spacesst.com/cachechu/
+X http://peerproject.org/webcache/
+X http://piz.noip.me/cachechu/
+X http://silvers.zyns.com/gwc/dkac.php
+X http://spacesst.com/cachechu/
+X http://timingsolution.com/curl/
+X http://webcache.peerproject.org/
+X http://witch.frodoslair.net/gwc/Beacon2/gwc.php
+X http://www.ak-electron.eu/Beacon2/gwc.php
+X http://www.gofoxy.net/gwc/cgi-bin/fc
+X http://www.lo7.wroc.pl/~stash/old-g2-moved/bazooka.php
+X http://www.myfoxy.net/gwc/cgi-bin/fc
+X http://www.omhub.ru/mibew/view/
+
+#
+# Last updated 24 Apr 2016
+#
+# A letter and space must precede each link to indicate the type of service:
+# X = Banned,  M = Multinetwork gwebcache,
+# 2 = Gnutella2 gwebcache,  1 = Gnutella gwebcache (obsolete),
+# U = BootStrap (uhc, ukhl, gnutella1 host, gnutella2 host),
+# D = eDonkey server.met file,  H = DC++ Hublist.xml.bz2 file
+#
+# Keep at least four gwebcache links and one link to a .met/hublist file
+# or they'll keep getting added every time they're removed
+#
+# Delete this file and PeerProject will use internal defaults.
+#
+# Live Status may be at http://gwebcaches.pongwar.com/
+# Test: http://webcache.peerproject.org/?get=1&net=gnutella2&client=TEST1.0
+# Latest version at https://sourceforge.net/p/peerproject/code/HEAD/tree/trunk/Data/DefaultServices.dat
